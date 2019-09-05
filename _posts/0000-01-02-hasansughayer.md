@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Leap, and the net will appear
 Use the left arrow to go back!
